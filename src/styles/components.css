@@ -307,7 +307,7 @@
 }
 
 .hero-split-left {
-  flex: 1.1;
+  flex: 0.8;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -317,8 +317,8 @@
 }
 
 .hero-split-right {
-  flex: 0.9;
-  background-position: center;
+  flex: 1.2;
+  background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
   position: relative;
