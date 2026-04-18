@@ -21,9 +21,9 @@ export const Header = (pages) => {
         a.href = `#/post/${item.id}`;
         a.className = 'nav-link';
         a.textContent = item.label;
-        if (item.label === 'باللغة العربية') {
-            a.style.fontFamily = 'Inter, sans-serif';
-            a.style.fontSize = '1.1rem';
+        if (item.id === "Page-Arabic") {
+            a.style.fontFamily = "Inter, sans-serif";
+            a.style.fontSize = "1.1rem";
         }
         a.addEventListener('click', (e) => {
             e.preventDefault();

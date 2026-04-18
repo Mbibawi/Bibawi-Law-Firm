@@ -6,7 +6,7 @@ import { PostDetail } from './components/PostDetail.js';
 const app = document.getElementById('app');
 const render = () => {
     const state = getState();
-    const pages = state.posts.filter((p) => p.type === "PAGE" && p.isRoot);
+    const pages = state.pages;
     app.innerHTML = '';
     app.appendChild(Header(pages));
     const content = document.createElement('main');

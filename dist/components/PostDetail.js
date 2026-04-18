@@ -37,7 +37,8 @@ export const PostDetail = (postId) => {
     }
     // Children list
     if (post.isRoot) {
-        const children = state.posts.filter(p => p.parentId === post.id);
+        const pageGroup = state.pagePosts.find(group => group.id === post.id);
+        const children = pageGroup ? pageGroup.posts : [];
         if (children.length > 0) {
             const listTitle = document.createElement('h2');
             listTitle.textContent = post.dir === 'rtl' ? 'المقالات والدروس' : 'Ressources et Articles';
