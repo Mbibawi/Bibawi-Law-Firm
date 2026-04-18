@@ -1,4 +1,4 @@
-﻿/* Header */
+/* Header */
 .main-header {
   background: var(--white);
   padding: 1rem 0;
@@ -75,6 +75,7 @@
   color: var(--text-light);
   font-size: 0.95rem;
   line-height: 1.7;
+  text-align: justify;
 }
 
 .post-item-footer {
@@ -96,11 +97,12 @@
 /* PostDetail */
 .detail-container {
   padding: 5rem 0;
+  max-width: 800px;
+  margin: 0 auto;
 }
 
 .detail-header {
   margin-bottom: 4rem;
-  max-width: 800px;
 }
 
 .detail-type {
@@ -123,6 +125,8 @@
   font-size: 1.1rem;
   color: var(--text-light);
   margin-bottom: 4rem;
+  text-align: justify;
+  line-height: 1.8;
 }
 
 .detail-children-title {
