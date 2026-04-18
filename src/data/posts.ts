@@ -26,7 +26,7 @@ export const posts: Post[] = [
     isRoot: true,
   },
   {
-    id: "Post_CompteCourantAssocie",
+    id: "Post-CompteCourantAssocie",
     title: "الحسابات الجارية للشركاء",
     published: "2020-05-26T11:57:00Z",
     updated: "2021-02-01T19:38:52.995Z",
@@ -40,7 +40,7 @@ export const posts: Post[] = [
     parentId: "Page-Arabic",
   },
   {
-    id: "Post_PersonnaliteMoraleSocietes",
+    id: "Post-PersonnaliteMoraleSocietes",
     title:
       "الفصل ما بين الذمة المالية للشركة والذمة المالية\n\t\t\t\t\tللشركاء والمديرين في القانون الفرنسي",
     published: "2020-05-26T11:57:00Z",
@@ -55,7 +55,7 @@ export const posts: Post[] = [
     parentId: "Page-Arabic",
   },
   {
-    id: "Post_FondsDeCommerce",
+    id: "Post-FondsDeCommerce",
     title: "المحل التجاري في القانون الفرنسي",
     published: "2020-05-26T11:57:00Z",
     updated: "2021-02-01T19:38:52.995Z",
@@ -68,7 +68,6 @@ export const posts: Post[] = [
     isRoot: false,
     parentId: "Page-Arabic",
   },
-
   {
     id: "Post-EgyptRealStateAcquisition",
     title:

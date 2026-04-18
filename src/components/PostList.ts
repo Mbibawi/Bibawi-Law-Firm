@@ -37,8 +37,8 @@ export const PostList = () => {
     const rootIds = [
       "Page-Expertise",
       "Page-Auctions",
+      "Post-EgyptRealStateAcquisition",
       "Page-Arabic",
-      "Post-Egypt",
       "Page-Contact",
     ];
 
