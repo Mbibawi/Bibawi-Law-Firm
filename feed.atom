@@ -1,0 +1,775 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:blogger='http://schemas.google.com/blogger/2018'>
+  <id>tag:blogger.com,1999:blog-3878060186025196014</id>
+  <title>Maître BIBAWI</title>
+  <entry>
+    <id>tag:blogger.com,1999:blog-3878060186025196014.post-592147784114409479</id>
+    <blogger:type>PAGE</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name>Maître Mina BIBAWI</name>
+      <uri>http://www.bibawi-avocats.com</uri>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <title>باللغة العربية</title>
+    <content type='html'>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+	&lt;head&gt;
+		&lt;title&gt;En Arabe&lt;/title&gt;
+		&lt;!-- &lt;script src="jquery.js"&gt;&lt;/script&gt; 
+    &lt;script&gt; 
+    $(function(){
+      $("#ImportedHTML").load("b.html"); 
+    });
+    &lt;/script&gt;  --&gt;
+		&lt;script src="https://1drv.ms/u/s!AiW-8uLdyAZli6Nlj0SRiuvUskXblQ?e=cDugf8"&gt;&lt;/script&gt;
+	&lt;/head&gt;
+	&lt;style&gt;
+		 body {
+		    background: #AFB8BE;
+		    width:unset;
+		    min-height: unset;
+		    padding:unset;
+		    margin:unset;
+		    float:unset;
+		    align:unset;
+		    line-height: unset;
+		    display:flex;
+		    flex-wrap: wrap;
+		 }
+		 .post-title {
+		   align-self: center;
+		   text-align: center;
+		   padding:unset;
+		   margin:unset;
+		   float:none;
+		 }
+		 .post-body {
+		   color:unset;
+		   font:unset;
+		   line-height: unset;
+		   margin:unset;
+		   display:unset;
+		 }
+		 .page_body .centered { https://www.bibawi-avocats.com/p/blog-page.html:1460
+		   min-height: unset;
+		 }
+		   #IntroductionToPage {
+		    direction: rtl;
+		    padding:3vmin;
+		    color:white;
+		    background:#5F717D;
+		    border-radius:20px;
+		    font-size:1.1rem;
+		    font-weight:bold;
+		    line-height: 7vmin;
+		    text-align:justify;
+		    margin-top:3vmin;
+		    margin-right:auto;
+		    margin-left:auto;
+		    margin-bottom:6vmin;
+		     }
+		     .Article {
+		       background:#AFB8BE;
+		       padding-right:3vmin;
+		       padding-left:3vmin;
+		       padding-top:3vmin;
+		       padding-bottom:3vmin;
+		     }
+		  .TitleSubject {
+		    clear:both;
+		    direction: rtl;
+		    text-align:center;
+		    color: white;
+		    font-size:1.4rem;
+		    border-style:solid;
+		    border-color:black;
+		    border-radius:20px;
+		    line-height: 10vmin;
+		    width:100%;
+		    background:#5F717D;
+		    /* background:rgb(211, 209, 209); */
+		    }
+		  .DescriptionSubject {
+		    direction: rtl;
+		    color: white;
+		    background:#5F717D;
+		    /* background:rgb(211, 209, 209); */
+		    font-size:1.2rem;
+		    text-align:justify;
+		    line-height:2rem;
+		    padding:2rem;
+		    border-radius:20px;
+		    overflow:visible;
+		    float:inline-start;
+
+		  }
+		.AudioFile {
+		  direction: rtl;
+		  width:22vmax;
+		  background: #8B3424;
+		  /* background-image: url(https://s7ssja.am.files.1drv.com/y4mTENNG0iezY4GEIFR0jfq46a8cY_kA76_8ZYQSu0p3VqoGvMl8PdBggX4tJCQRpfYN4VWO85h03vHpZO-O9cwyW44C2E9mTkOwd6pfba1AoQsOEceBnD6CKAKVHf2wJV0sFUJ23TR6qZWANphMi0LdQlolRkmNA0XsZ0bHMpSUio6aQM9Clr_SJoYGcciWFtxAWEXAZ_5VTrwBkgxGXPHKQ?width=100&amp;height=100&amp;cropmode=none); */
+		  border-radius: 20px;
+		  margin:2rem;
+		  float:left;
+		}
+		.ListenToAudio {
+		  background:transparent;
+		  border-radius:20px;
+		  border:none;
+		  text-align:center;
+		  line-height:1.rem;
+		  margin-bottom: 3vmin;
+		  margin-right:1vmin;
+		  margin-left:1vmin;
+		  font-weight:bold;
+		  text-shadow:100px;
+		  font-size:1.1rem;
+		  color:white;
+		  /* overflow-block:visible;
+		  overflow-block: 500; */
+		  /* float:top, right; */
+		  z-index:500px;
+		  }
+		  .AudioIFrame {
+		  background-color:cadetblue;
+		  /* float:inherit;
+		  margin:center;
+		  padding:center; */
+		  height:6vmax;
+		  width:22vmax;
+		  border:none;
+		  /* margin-left:4px;
+		  margin-right:4px; */
+		  border-radius:20px;
+		  }
+	&lt;/style&gt;
+
+	&lt;body&gt;
+		&lt;!-- &lt;div id=ImportedHTML&gt;
+
+   &lt;/div&gt; --&gt;
+		&lt;!-- &lt;iframe 
+    src="https://www.bibawi-avocats.com/p/personalite-morale-des-societes.html" 
+    width=90% 
+    height=20000vmin
+    &gt;
+    &lt;/iframe&gt; --&gt;
+		&lt;p id="IntroductionToPage"&gt;
+			خلال سنوات عملي كمحامي أمام المحاكم الفرنسية تعاملت مع كثير من
+			أبناء الجالية المصرية من أصحاب الأعمال الصغيرة والمتوسطة.
+			&lt;br /&gt;
+			لاحظت في بعض الأحيان عدم الاستيعاب الكامل لبعض المفاهيم
+			الرئيسية المتعلقة بالشركات وبالأنشطة التجارية عموماً، وهو ما
+			دفعني للتفكير في تأسيس صفحة لشرح تلك المفاهيم.
+			&lt;br /&gt;
+			ونظراً لإدراكي لعدم اتساع وقتهم لقراءة مقالات تشرح تلك
+			المفاهيم، فكرت في اللجوء إلى شروحات مختصرة لمواضيع محددة في
+			صورة تسجيلات صوتية يمكنهم الاستماع إليها أثناء عملهم أو أثناء
+			تنقلهم.
+			&lt;br /&gt;
+			في انتظار تعليقاتكم واقتراحاتكم عن مدى جدوى مثل هذا التقديم
+			المبسط للمفاهيم القانونية.
+		&lt;/p&gt;
+      &lt;article id="Subject3_CompteCourantAssocie"&gt;
+			&lt;section class="Article"&gt;
+				&lt;h1 class="TitleSubject"&gt;
+					الحسابات الجارية للشركاء
+				&lt;/h1&gt;
+				&lt;div class="AudioFile"&gt;
+					&lt;h1 class="ListenToAudio"&gt;
+						استمع إلى الشرح المختصر للحسابات الجاري للشركاء
+						وكيفية تفادي المشاكل الضريبية والمسئولية التي قد تنتج عن عدم
+						احترام القواعد التي تحكم القيد المحاسبي والتعامل على هذا الحساب:
+					&lt;/h1&gt;
+
+					&lt;iframe
+						class="AudioIFrame"
+						src="https://drive.google.com/file/d/1T653y3rzNt8u__RkzPctBAKY8GoqjNU3/preview"
+					&gt;
+					&lt;/iframe&gt;
+				&lt;/div&gt;
+
+	&lt;p class="DescriptionSubject"&gt;
+كثير من أصحاب الشركات يلجأ لضخ أموال في شركته عن طريق "حساب جاري الشركاء" &lt;span dir="rtl"&gt;&lt;b&gt;compte courant d’associé&lt;/b&gt; &lt;/span&gt;  
+				.
+					&lt;br /&gt;
+غير أن البعض لا يدرك تماما طبيعة هذا الحساب، والنتائج الضريبية التي قد تترتب على عدم إمساك دفاتر ومستندات سليمة تثبت حقيقة وحجم المبالغ التي تم ضخها أو تم سدادها، ناهيك عن مسألة خضوع الدين للفوائد من عدمه. هذا هو موضوع هذا العرض المبسط والسريع لأهم الجوانب التي لاحظتها في تعامل كثير من أصحاب الشركات الصغيرة والمتوسطة مع حساب جاري الشركاء.				
+	&lt;br /&gt;
+					في انتظار تعليقاتكم واقتراحاتكم وأسئلتكم.
+	&lt;/p&gt;
+			&lt;/section&gt;
+		&lt;/article&gt;
+
+
+		&lt;article id="Subject2_PersonnaliteMoraleSocietes"&gt;
+			&lt;section class="Article"&gt;
+				&lt;h1 class="TitleSubject"&gt;
+					الفصل ما بين الذمة المالية للشركة والذمة المالية
+					للشركاء والمديرين في القانون الفرنسي
+				&lt;/h1&gt;
+				&lt;div class="AudioFile"&gt;
+					&lt;h1 class="ListenToAudio"&gt;
+						استمع إلى الشرح المختصر لمفهوم الذمة المالية
+						المنفصلة للشركة وللتبعات القانونية لعدم
+						احترام هذا المبدأ:
+					&lt;/h1&gt;
+
+					&lt;iframe
+						class="AudioIFrame"
+						src="https://drive.google.com/file/d/1A6tSej17B9Vhfnm-0GRpOY9rQQFzcal-/preview"
+					&gt;
+					&lt;/iframe&gt;
+				&lt;/div&gt;
+
+				&lt;p class="DescriptionSubject"&gt;
+					أغلب إن لم يكن كل المصريين الذين تعاملت معهم
+					كمحامي في فرنسا، يباشروا نشاطهم التجاري من خلال
+					شركات تجارية يقوموا بتأسيسها. ومع ذلك لاحظت أن
+					أغلبهم لا يعي أو لا يستوعب تماماً أن الشركة في نظر
+					القانون الفرنسي (وحتى المصري) تعتبر شخص معنوي
+					&lt;span dir="rtl"&gt;&lt;b&gt;Personne morale&lt;/b&gt; &lt;/span&gt; أي
+					أن القانون ينظر لها على أنها "شخص" مثل الأفراد
+					الطبيعيين.
+					&lt;br /&gt;
+					من أهم ما يترتب على كون الشركة شخص معنوي، هو أن
+					القانون الفرنسي (وحتى المصري) يشترط الفصل الكامل
+					ما بين الذمة المالية للشركة (أي أموالها وممتلكاتها
+					وديونها) من ناحية، والذمة المالية للشركاء
+					والمديرين من ناحية أخرى. وفي حالة عدم احترام
+					الشريك أو الشركاء لهذا المبدأ، واستعمالهم لأموال
+					وممتلكات الشركة لأغراض شخصية، قد يترتب على ذلك
+					تبعات قانونية خطيرة أستعرضها في التسجيل الصوتي
+					الذي قمت بإعداده لتناول تلك المسألة والذي أتمنى أن
+					يلفت النظر لأهمية عدم الخلط بين الذمة المالية
+					للشريك والذمة المالية للشركة.
+					&lt;br /&gt;
+					في انتظار تعليقاتكم واقتراحاتكم وأسئلتكم.
+				&lt;/p&gt;
+			&lt;/section&gt;
+		&lt;/article&gt;
+
+		&lt;article id="ArticleSubject1_FondsDeCommerce"&gt;
+			&lt;section class="Article"&gt;
+				&lt;h1 class="TitleSubject"&gt;
+					المحل التجاري في القانون الفرنسي
+				&lt;/h1&gt;
+				&lt;div class="AudioFile"&gt;
+					&lt;h1 class="ListenToAudio"&gt;
+						استمع إلى الشرح المختصر لمفهوم المحل التجاري
+						في القانون الفرنسي:
+					&lt;/h1&gt;
+
+					&lt;iframe
+						class="AudioIFrame"
+						src="https://drive.google.com/file/d/1hvt7uaUUpYMZms4kE8H0l5ufO8eUfxYI/preview"
+					&gt;
+					&lt;/iframe&gt;
+				&lt;/div&gt;
+
+				&lt;p class="DescriptionSubject"&gt;
+					من خلال ممارستي واحتكاكي بأصحاب الأعمال من
+					المصريين المقيمين في فرنسا، خاصة في مجال المطاعم،
+					لاحظت عدم وضوح مفهوم الـ
+					&lt;span dir="rtl"&gt;&lt;b&gt;Fonds de commerce&lt;/b&gt; &lt;/span&gt;
+					في أذهان معظمهم رغم أن نشاطهم الأساسي مرتبط من
+					الناحية القانونية بهذا المفهوم.
+					&lt;br /&gt;
+					ونظراً لإدراكي لذلك فقد بدا لي من الضروري تقديم
+					عرض مبسط قدر الإمكان لما يعنيه هذا المصطلح في
+					القانون الفرنسي وما يجب إدراكه وأخذه في الاعتبار
+					عند الإقدام على شراء أو بيع محل تجاري.
+					&lt;br /&gt;
+				&lt;/p&gt;
+			&lt;/section&gt;
+		&lt;/article&gt;
+	&lt;/body&gt;
+&lt;/html&gt;
+</content>
+    <blogger:metaDescription/>
+    <blogger:created>2019-12-21T04:18:03.228Z</blogger:created>
+    <published>2020-05-26T11:57:00Z</published>
+    <updated>2021-02-01T19:38:52.995Z</updated>
+    <blogger:location/>
+    <category/>
+    <blogger:filename>/p/blog-page.html</blogger:filename>
+    <link/>
+    <enclosure/>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-3878060186025196014.post-3137521404184090704</id>
+    <blogger:type>POST</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name>Maître Mina BIBAWI</name>
+      <uri>http://www.bibawi-avocats.com</uri>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <title>Domaines d'intervention</title>
+    <content type='html'>&lt;div dir="ltr" style="color: grey; text-align: left;" trbidi="on"&gt;Nous intervenons principalement dans les domaines suivants:&lt;br /&gt;
+&lt;br /&gt;
+&lt;div&gt;- Droit commercial et des sociétés&lt;/div&gt;&lt;div&gt;- Droit immobilier (copropriété, ventes aux enchères, baux professionnels et d'habitations)&lt;/div&gt;&lt;div&gt;- Droit des contrats et de la responsabilité contractuelle&lt;/div&gt;&lt;div&gt;&lt;br /&gt;
+&lt;/div&gt;&lt;div&gt;Pour nos clients à la recherche d'un avocat pour l'acquisition d'un bien mis en vente aux enchères au TGI de Paris, nous avons conçu un forfait intéressant afin de réduire au maximum le coût de l'intervention si vous n'est pas déclaré adjudicataire.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;
+&lt;/div&gt;&lt;div&gt;&lt;br /&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+    <blogger:metaDescription/>
+    <blogger:created>2018-08-13T05:27:58.500Z</blogger:created>
+    <published>2018-08-13T05:34:00Z</published>
+    <updated>2019-12-09T08:51:29.945Z</updated>
+    <blogger:location/>
+    <category scheme='tag:blogger.com,1999:blog-3878060186025196014' term='Domaines d&apos;intervention'/>
+    <blogger:filename>/2018/08/nos-principaux-domaines-dintervention.html</blogger:filename>
+    <link/>
+    <enclosure/>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-3878060186025196014.post-4449741076111714186</id>
+    <blogger:type>POST</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name>Maître Mina BIBAWI</name>
+      <uri>http://www.bibawi-avocats.com</uri>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <title>Acquisition d’un bien immobilier en Égypte : Ce qu’il faut savoir et les écueils à éviter</title>
+    <content type='html'>&lt;br /&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;b style="text-indent: -36pt;"&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; font-size: 12.0pt; line-height: 115%;"&gt;I.&lt;span style="font-family: &amp;quot;times new roman&amp;quot;; font-size: 7pt; font-stretch: normal; font-weight: normal; line-height: normal;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span dir="LTR" style="text-indent: -36pt;"&gt;&lt;/span&gt;&lt;b style="text-indent: -36pt;"&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; font-size: 12.0pt; line-height: 115%;"&gt;Un marché immobilier en pleine expansion et des prix très
+intéressants&amp;nbsp;:&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;b style="text-indent: -36pt;"&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; font-size: 12.0pt; line-height: 115%;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;Les 30 dernières années ont
+connu une extension impressionnante des grandes villes (notamment le Caire et
+Alexandrie) sous forme de banlieues dont certaines sont très convoitées comme
+le «&amp;nbsp;Nouveau Caire&amp;nbsp;», «&amp;nbsp;El Sheikh Zayed&amp;nbsp;» ou «&amp;nbsp;6
+Octobre&amp;nbsp;».&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;À Sharm El Sheikh, El Gouna,
+et «&amp;nbsp;El Sahel El Shamaly&amp;nbsp;» les ensembles immobiliers donnant sur la
+mer se prolifèrent avec une offre intéressante en termes de confort, de services,
+d’espaces de loisir, de cadre de vie etc., à des prix largement abordables en comparaison
+avec le prix de l’immobilier en France ou dans la plupart des pays européens.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;Je suis &lt;b&gt;de temps à autre
+sollicité par des clients français ou résidant en France concernant des biens immobiliers
+acquis en Égypte&lt;/b&gt;.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;Qu’il s’agisse d’un investissement
+immobilier dans un ensemble luxueux au bord de la Mer Rouge (Hurghada, Sharm El
+Sheikh, etc.) ou d’un simple pied à terre dans l’une des grandes villes d’Égypte
+(le Caire, Alexandrie, etc.), il m’est paru &lt;b&gt;au fil des difficultés voire des
+litiges auxquels ce genre d’acquisition a parfois donné lieu, de porter à la
+connaissance des futurs acquéreurs francophones, certaines informations et éléments
+afin d’éviter, autant que faire se peut, les risques associés à ce genre de
+projets.&lt;/b&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoListParagraph" style="break-after: avoid; line-height: 115%; margin: 12pt 0cm 12pt 36pt; text-align: justify; text-indent: -36pt;"&gt;
+&lt;!--[if !supportLists]--&gt;&lt;b&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; font-size: 12.0pt; line-height: 115%;"&gt;&lt;span style="mso-list: Ignore;"&gt;II.&lt;span style="font: 7.0pt &amp;quot;Times New Roman&amp;quot;;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;!--[endif]--&gt;&lt;span dir="LTR"&gt;&lt;/span&gt;&lt;b&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; font-size: 12.0pt; line-height: 115%;"&gt;En matière immobilière, seule une publicité foncière en
+due et en forme est opposable aux tiers&amp;nbsp;:&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;Le cadre juridique de la
+propriété immobilière en Égypte ressemble beaucoup, du moins en principe, à celui
+de la France&amp;nbsp;: la propriété d’un bien immobilier n’est opposable aux tiers
+que par la publicité foncière auprès de l’administration compétente qui joue le
+rôle du Service de Publicité Foncière en France.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;Un cadastre et un fichier
+immobilier existent en effet dans les grandes villes et les zones urbaines
+cadastrées.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;L’idéal pour protéger son droit et son titre
+de propriété est donc de procéder à la publicité du titre chaque fois que c’est
+possible. &lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;Hélas, le plus souvent ce n’est pas le cas, surtout
+dans les nouvelles agglomérations et zones urbaines limitrophes des grandes
+villes ou au bord de la mer.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoListParagraph" style="break-after: avoid; line-height: 115%; margin: 12pt 0cm 12pt 36pt; text-align: justify; text-indent: -36pt;"&gt;
+&lt;!--[if !supportLists]--&gt;&lt;b&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; font-size: 12.0pt; line-height: 115%;"&gt;&lt;span style="mso-list: Ignore;"&gt;III.&lt;span style="font: 7.0pt &amp;quot;Times New Roman&amp;quot;;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;!--[endif]--&gt;&lt;span dir="LTR"&gt;&lt;/span&gt;&lt;b&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; font-size: 12.0pt; line-height: 115%;"&gt;Une publicité foncière quasi impossible dans la plupart
+des nouvelles agglomérations urbaines&amp;nbsp;:&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;Les constructions et les
+biens vendus dans ces nouvelles agglomérations et zones urbaines sont le plus
+souvent situés dans des &lt;b&gt;zones non cadastrées&lt;/b&gt; ce qui empêche pratiquement
+toute publicité foncière.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;De plus, même lorsque le
+terrain et l’ensemble immobilier sont cadastrés, il s’agit très souvent (voire
+quais systématiquement) de terrains dits «&amp;nbsp;réservés&amp;nbsp;», c’est-à-dire des
+lots relevant du domaine public que l’État propose aux prometteurs immobiliers et
+aux particuliers en contrepartie d’un prix dont le règlement est étalé en
+plusieurs échéances s’étendant sur plusieurs années. &lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;Or, les actes emportant «&amp;nbsp;réservation&amp;nbsp;»
+du lot au prometteur immobilier contiennent quasi systématiquement une clause
+stipulant que &lt;b&gt;la propriété du lot n’est transférée au bénéficiaire qu’après entier
+paiement du prix d’attribution&lt;/b&gt; (laquelle est de plus en plus souvent fixée
+par une sorte d’enchère publique).&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;Le prometteur immobilier lance
+le projet et vend les biens en état futur d’achèvement. Non seulement il vend des biens construits sur un terrain qui lui est simplement « réservé » et dont il n'est pas propriétaire, mais il arrive très souvent qu’il ait recours à un/plusieurs
+prêt(s) bancaire(s) pour financier les constructions. Ce(s) prêt(s) dont la
+durée dépasse souvent 15 ans, est/sont quasi systématiquement garanti(s) par
+une hypothèque sur les constructions au fur et à mesure de leur achèvement, outre
+l’engagement par le prometteur d’hypothéquer le terrain au profit de la banque
+dès qu’il en devient propriétaire.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;Le prometteur finance la
+construction, le prix d’acquisition du terrain et les échéances du/des prêt(s),
+par les flux financiers provenant de la vente des unités du projet immobilier.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;Dans tous ces cas de figure,
+la publicité foncière dépend du transfert de propriété du terrain au prometteur
+dans un premier lieu, afin que l’acquéreur puisse dans un deuxième temps procéder
+à la publication de son titre. Encore faut-il que le terrain ne soit pas
+hypothéqué.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;Or, on l’a vu, le transfert
+de propriété est quasi-systématiquement tributaire du paiement de la totalité
+du prix d’acquisition voire du remboursement du/des
+prêt(s) bancaire(s) contracté(s) par le prometteur.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;b&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;b&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;L’acquéreur ne dispose donc
+que d’un titre sous seing privé qui ne bénéficie d’aucune publicité foncière le
+rendant opposables aux tiers&lt;/span&gt;&lt;/b&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;. &lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;En cas de cession d’un
+bien faisant partie d’un ensemble immobilier construit par un prometteur
+immobilier, le plus souvent celui-ci tient un registre des propriétaires successifs
+des biens. &lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;Les actes de cession rédigés
+par la plupart des prometteurs pour les ensembles immobiliers vendus en état
+futur d’achèvement, prévoient un droit de mutation qui doit être versé au
+prometteur en cas de cession du bien (de l’ordre de 2 à 3%). Le prometteur met
+ainsi en place une sorte de «&amp;nbsp;service de publicité foncière&amp;nbsp;» privé
+qui n’a aucune valeur juridique à l’égard des tiers puisqu’il ne bénéficie d’aucune
+publicité foncière et ne sert pratiquement qu’à permettre au prometteur de
+contrôler les cessions subséquentes, à identifier les nouveaux acquéreurs, à toucher
+une sorte de commission sur la vente même s’il n’est pas intervenu en tant qu’intermédiaire,
+voire, dans les cas extrêmes, à préempter le bien en cas de cession à un prix dérisoire
+ou symbolique ou un acquéreur dont le profil ne correspond pas au «&amp;nbsp;standing&amp;nbsp;»
+de l’ensemble immobilier&amp;nbsp;! &lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;En définitif, en cas de litige
+ou, pire, en cas de défaillance ou de faillite du prometteur, l’État ou les
+créanciers peuvent théoriquement saisir tous les biens immobiliers construits
+sur le terrain par le prometteur. &lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;La faillite du prometteur sur
+un seul projet peut même entraîner la saisie par ses créanciers de tous les
+biens immobiliers lui appartenant, tant que leur propriété n’a pas été
+transférée par un acte opposable aux tiers&amp;nbsp;!&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;Quant aux immeubles
+construits par des particuliers sur des parcelles leur appartenant en pleine
+propriété, la publicité foncière de l’acte de cession sous sein privé suppose
+que le propriétaire du terrain sur lequel l’immeuble est construit ait lui-même
+procédé à la publication de son titre de propriété.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;Le coût de la publicité
+foncière, lorsqu’elle est possible, est un élément souvent aperçu comme
+rédhibitoire par le prometteur immobilier ou par le maître d’ouvrage s’il s’agit
+d’un immeuble privé.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;Tous ces facteurs réunis
+font que &lt;b&gt;la plupart du temps, la publicité foncière d’un bien acquis dans
+les nouvelles agglomérations urbaines est quasi impossible ou du moins inenvisageable&lt;/b&gt;.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoListParagraph" style="break-after: avoid; line-height: 115%; margin: 12pt 0cm 12pt 36pt; text-align: justify; text-indent: -36pt;"&gt;
+&lt;!--[if !supportLists]--&gt;&lt;b&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; font-size: 12.0pt; line-height: 115%;"&gt;&lt;span style="mso-list: Ignore;"&gt;IV.&lt;span style="font: 7.0pt &amp;quot;Times New Roman&amp;quot;;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;!--[endif]--&gt;&lt;span dir="LTR"&gt;&lt;/span&gt;&lt;b&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; font-size: 12.0pt; line-height: 115%;"&gt;Des palliatifs dont l’efficacité nous paraît douteuse&amp;nbsp;:&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;Pour pallier ces
+difficultés et sécuriser autant que faire se peut le transfert de propriété d’un
+propriétaire à l’autre, une pratique plus ou moins efficace s’est développée. Il
+s’agit d’un recours judiciaire dit «&amp;nbsp;&lt;b&gt;&lt;i&gt;action en reconnaissance de
+signature&lt;/i&gt;&lt;/b&gt;&amp;nbsp;»&lt;/span&gt;&lt;span dir="RTL"&gt;&lt;/span&gt;&lt;span dir="RTL"&gt;&lt;/span&gt;&lt;span dir="RTL" lang="FR" style="font-family: &amp;quot;times new roman&amp;quot; , serif; mso-ansi-language: FR; mso-ascii-font-family: Garamond; mso-bidi-theme-font: major-bidi; mso-hansi-font-family: Garamond;"&gt;&lt;span dir="RTL"&gt;&lt;/span&gt;&lt;span dir="RTL"&gt;&lt;/span&gt; &lt;/span&gt;&lt;span dir="LTR"&gt;&lt;/span&gt;&lt;span dir="LTR"&gt;&lt;/span&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;&lt;span dir="LTR"&gt;&lt;/span&gt;&lt;span dir="LTR"&gt;&lt;/span&gt;(&lt;/span&gt;&lt;span dir="RTL"&gt;&lt;/span&gt;&lt;span dir="RTL"&gt;&lt;/span&gt;&lt;span dir="RTL" lang="AR-EG" style="font-family: &amp;quot;times new roman&amp;quot; , serif; mso-ansi-language: FR; mso-ascii-font-family: Garamond; mso-bidi-language: AR-EG; mso-bidi-theme-font: major-bidi; mso-hansi-font-family: Garamond;"&gt;&lt;span dir="RTL"&gt;&lt;/span&gt;&lt;span dir="RTL"&gt;&lt;/span&gt;(دعوى إثبات صحة توقيع&amp;nbsp;&lt;/span&gt;&lt;span dir="LTR"&gt;&lt;/span&gt;&lt;span dir="LTR"&gt;&lt;/span&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-language: AR-EG; mso-bidi-theme-font: major-bidi;"&gt;&lt;span dir="LTR"&gt;&lt;/span&gt;&lt;span dir="LTR"&gt;&lt;/span&gt;:&lt;/span&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt; l’acquéreur d’un bien immobilier en vertu d’un acte sous
+seing-privé, assigne le cédant du bien devant le tribunal dans le ressort
+duquel le bien est situé, demandant à ce que sa signature sur l’acte de cession
+sous seing-privé soit déclarée «&amp;nbsp;authentique&amp;nbsp;» par le juge.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;Le plus souvent le cédant
+ne comparaît pas dans la procédure, et un jugement par défaut est rendu à son
+encontre. Certains acquéreurs mieux conseillés obtiennent de la part du cédant
+une procuration irrévocable par acte authentique (i.e., établie et enregistrée auprès
+de l’Administration de Publicité Foncière et de la légalisation). En vertu de
+cette procuration irrévocable, le cessionnaire comparaît et représente le cédant
+dans l’action intentée contre ce dernier sur la foi de l’acte de cession sous
+seing privé.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;b&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;b&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;Faute de mieux, cette
+pratique très répandue, est communément considérées par une large majorité des
+avocats égyptiens comme suffisamment protectrice du titre de propriété.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;b&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;Elle ne nous paraît pas
+toutefois sans risques, et nous semble même d’une efficacité très incertaine en
+cas de revendication du bien par un tiers&lt;/span&gt;&lt;/b&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;&amp;nbsp;:&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoListParagraph" style="line-height: 115%; text-align: justify; text-indent: -18pt;"&gt;
+&lt;/div&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;Un tel
+jugement n’a juridiquement pour objet ou pour effet, que de conférer une
+certaine forme d’authenticité à la signature apposée sur l’acte sous seing privé
+par le cédant. Sa portée se limite donc à cet aspect et elle n’a pas en soi d’effet
+sur l’existence même du droit de propriété, sur son transfert par le biais de l’acte
+sous seing privé, ou encore moins sur l’opposabilité d’un tel acte aux tiers. &lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: Garamond; mso-fareast-font-family: Garamond;"&gt;&lt;span style="mso-list: Ignore;"&gt;&lt;span style="font: 7.0pt &amp;quot;Times New Roman&amp;quot;;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;!--[endif]--&gt;&lt;span dir="LTR"&gt;&lt;/span&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;Autrement
+dit, si le cédant ne disposait pas lui-même d’un droit de propriété incontestable
+(publié ou acquis par une possession continue, paisible, publique, non
+équivoque exercée au titre de propriétaire), le jugement ne pourrait conférer
+au cessionnaire un droit dont ne disposait pas le cédant.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;Pire, lorsqu’il
+est rendu par défaut (ce qui est souvent le cas), un tel jugement indépendamment
+de sa valeur juridique en tant que titre translatif de propriété, est susceptible
+d’opposition voire de tierce opposition, et ce même s’il acquiert la force de
+la chose jugée en dernier ressort après l’expiration du délai d’appel (en Égypte,
+le délai d’appel court à compter de la date de la décision et non de la date de
+sa signification à la partie adverse comme en France).&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;Il est très
+rare que le jugement ainsi obtenu soit signifié au cédant pour le lui rendre
+opposable. Toutefois, sa signification au cédant ne le rendrait de toute façon
+opposable qu’à celui-ci, ce qui veut dire que tout tiers peut à tout moment faire
+tierce opposition à ce jugement dans le cadre d’une action en revendication, ce
+qui risque de le priver de tout effet à son égard surtout si celui-ci est un créancier
+disposant d’une sûreté réelle sur le terrain ou sur le bien.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;!--[if !supportLists]--&gt;&lt;br /&gt;
+&lt;div class="MsoListParagraph" style="break-after: avoid; line-height: 115%; margin: 12pt 0cm 12pt 36pt; text-align: justify; text-indent: -36pt;"&gt;
+&lt;!--[if !supportLists]--&gt;&lt;b&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; font-size: 12.0pt; line-height: 115%;"&gt;&lt;span style="mso-list: Ignore;"&gt;V.&lt;span style="font: 7.0pt &amp;quot;Times New Roman&amp;quot;;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;!--[endif]--&gt;&lt;span dir="LTR"&gt;&lt;/span&gt;&lt;b&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; font-size: 12.0pt; line-height: 115%;"&gt;Nos préconisations et conseils&amp;nbsp;:&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;On l’a vu, l’acquisition d’un
+bien immobilier en Égypte dans des conditions ne permettant pas la publicité
+foncière de la vente, &lt;b&gt;expose l’acquéreur à plusieurs risques qu’il convient
+de bien évaluer et de prendre toutes les mesures utiles permettant, tant que
+faire se peut, de sécuriser son droit de propriété. À cet effet, nous
+préconisons de&lt;/b&gt;&amp;nbsp;:&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoListParagraph" style="line-height: 115%; mso-list: l0 level1 lfo1; text-align: justify; text-indent: -18.0pt;"&gt;
+&lt;/div&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: Garamond; mso-fareast-font-family: Garamond;"&gt;&lt;span style="font-family: &amp;quot;times new roman&amp;quot;; font-size: 7pt; font-stretch: normal; line-height: normal;"&gt;&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;b&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;Vérifier
+le titre de propriété et, en tout cas, le droit d’occupation et de construction
+du vendeur&lt;/span&gt;&lt;/b&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;&amp;nbsp;;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;Bien &lt;b&gt;se
+renseigner sur la réputation et la fiabilité du prometteur immobilier&lt;/b&gt;&amp;nbsp;:
+privilégier les grands groupes bien établis ayant réalisé et achevé avec succès
+des ensembles immobiliers connus&amp;nbsp;;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;S’il s’agit
+d’une acquisition de la part d’un premier acquéreur en état futur d’achèvement,
+&lt;b&gt;se renseigner auprès du prometteur immobilier&lt;/b&gt; pour vérifier que le vendeur
+est bien en droit de céder le bien et que sa propriété n’est pas contestée par
+le prometteur à quelque titre que ce soit&amp;nbsp;;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;Bien
+étudier les clauses de l’acte de vente proposé&lt;/span&gt;&lt;/b&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;&amp;nbsp;;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;Laisser
+un solde du prix à verser après l’obtention d’un jugement reconnaissant la signature
+par le cédant de l’acte sous seing privé&amp;nbsp;;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;Mettre
+en cause tous les tiers pouvant plus tard contester la vente ou le droit de
+propriété&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;Signifier
+le jugement au vendeur et aux tiers.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;!--[if !supportLists]--&gt;&lt;br /&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;
+
+
+
+
+
+
+
+
+
+
+
+&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; margin-left: 18.0pt; text-align: justify;"&gt;
+&lt;span style="font-family: &amp;quot;garamond&amp;quot; , serif;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;Soulignons que même dans
+les cas où il serait impossible de parfaitement sécuriser l’acquisition et la
+rendre opposable aux tiers, il vaut mieux acheter en connaissance de cause et être
+prudent qu'être pris par surprise.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; margin-left: 18.0pt; text-align: justify;"&gt;
+&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;b&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;b&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;En définitif, &lt;u&gt;faire appel
+à un conseil&lt;/u&gt;, de préférence avocat, qui est non seulement &lt;u&gt;compétent en la
+matière&lt;/u&gt;, mais en qui vous pouvez avoir &lt;u&gt;toute confiance&lt;/u&gt; pour vous accompagner et
+vous conseiller tout au long de votre projet, est hautement conseillé, voire impératif.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; text-align: justify;"&gt;
+&lt;b&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; margin-bottom: .0001pt; margin-bottom: 0cm; margin-left: 17.85pt; margin-right: 0cm; margin-top: 0cm; text-align: justify;"&gt;
+&lt;b&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;Mina BIBAWI&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; margin-bottom: .0001pt; margin-bottom: 0cm; margin-left: 17.85pt; margin-right: 0cm; margin-top: 0cm; text-align: justify;"&gt;
+&lt;i&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;Avocat à la Cour&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/i&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; margin-bottom: .0001pt; margin-bottom: 0cm; margin-left: 17.85pt; margin-right: 0cm; margin-top: 0cm; text-align: justify;"&gt;
+&lt;b&gt;&lt;i&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;&lt;a href="mailto:mina.bibawi@bibawi-avocats.com"&gt;mina.bibawi@bibawi-avocats.com&lt;/a&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;
+&lt;div class="MsoNormal" style="line-height: 115%; margin-bottom: .0001pt; margin-bottom: 0cm; margin-left: 17.85pt; margin-right: 0cm; margin-top: 0cm; text-align: justify;"&gt;
+&lt;b&gt;&lt;i&gt;&lt;span lang="FR" style="font-family: &amp;quot;garamond&amp;quot; , serif; mso-ansi-language: FR; mso-bidi-font-family: &amp;quot;Times New Roman&amp;quot;; mso-bidi-theme-font: major-bidi;"&gt;Portable&amp;nbsp;: +33 (0)7
+81 22 51 91&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;
+&lt;div style="text-align: justify;"&gt;
+&lt;br /&gt;&lt;/div&gt;
+</content>
+    <blogger:metaDescription/>
+    <blogger:created>2019-12-08T21:02:27.461Z</blogger:created>
+    <published>2019-07-10T20:15:00Z</published>
+    <updated>2019-12-09T07:26:25.759Z</updated>
+    <blogger:location/>
+    <category scheme='tag:blogger.com,1999:blog-3878060186025196014' term='Acquisition d’un bien immobilier en Égypte : Ce qu’il faut savoir et les écueils à éviter'/>
+    <blogger:filename>/2019/12/acquisition-dun-bien-immobilier-en.html</blogger:filename>
+    <link/>
+    <enclosure/>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-3878060186025196014.post-5510531889135482962</id>
+    <blogger:type>PAGE</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name>Maître Mina BIBAWI</name>
+      <uri>http://www.bibawi-avocats.com</uri>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <title>Articles</title>
+    <content type='html'/>
+    <blogger:metaDescription/>
+    <blogger:created>2019-12-08T21:19:50.628Z</blogger:created>
+    <published>2019-12-08T21:19:00.001Z</published>
+    <updated>2019-12-08T21:19:50.657Z</updated>
+    <blogger:location/>
+    <category/>
+    <blogger:filename>/p/articles.html</blogger:filename>
+    <link/>
+    <enclosure/>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-3878060186025196014.post-5619440676654787976</id>
+    <blogger:type>PAGE</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name>Maître Mina BIBAWI</name>
+      <uri>http://www.bibawi-avocats.com</uri>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <title>Nous contacter</title>
+    <content type='html'>&lt;div dir="ltr" style="text-align: left;" trbidi="on"&gt;
+Maître Mina BIBAWI&lt;br /&gt;
+52-54, rue Letort&lt;br /&gt;
+75018 Paris&lt;br /&gt;
+&lt;br /&gt;
+Tel: +33 (0)9 53 43 77 30&lt;br /&gt;
+Fax: +33 (0)9 58 43 77 30&lt;br /&gt;
+Portable: +33 (0)7 81 22 51 91&lt;br /&gt;
+E-mail: mina.bibawi@bibawi-avocats.com&lt;br /&gt;
+&lt;br /&gt;&lt;/div&gt;
+</content>
+    <blogger:metaDescription/>
+    <blogger:created>2018-08-13T05:21:46.501Z</blogger:created>
+    <published>2018-08-13T05:25:00Z</published>
+    <updated>2018-08-13T05:25:31.906Z</updated>
+    <blogger:location/>
+    <category/>
+    <blogger:filename>/p/nous-contacter.html</blogger:filename>
+    <link/>
+    <enclosure/>
+    <blogger:trashed/>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-3878060186025196014.post-8836655885593735648</id>
+    <blogger:type>PAGE</blogger:type>
+    <blogger:status>LIVE</blogger:status>
+    <author>
+      <name>Maître Mina BIBAWI</name>
+      <uri>http://www.bibawi-avocats.com</uri>
+      <blogger:type>BLOGGER</blogger:type>
+    </author>
+    <title>Ventes aux Enchères</title>
+    <content type='html'>&lt;div dir="ltr" style="text-align: left;" trbidi="on"&gt;
+Vous êtes à l'affût d'un investissement locatif ou résidentiel ?&lt;br /&gt;
+&lt;br /&gt;
+Vous espérez faire une bonne affaire en achetant un bien vendu aux enchères.&lt;br /&gt;
+&lt;br /&gt;
+Pour porter des enchères sur un bien vendu au TGI de Paris, il faut être représenté par un avocat inscrit au Barreau de Paris.&lt;br /&gt;
+&lt;br /&gt;
+Nous pouvons vous assister et vous accompagner dans vos démarches.&lt;br /&gt;
+&lt;br /&gt;
+Nous avons conçu des forfaits intéressants qui minimisent le coût de notre intervention si vous n'êtes pas déclaré adjudicataire.&lt;br /&gt;
+&lt;br /&gt;
+Pour plus d'informations sur nos honoraires, vous pouvez nous contacter au:&lt;br /&gt;
+&lt;div style="text-align: center;"&gt;
+07 81 22 51 91&lt;/div&gt;
+&lt;div style="text-align: center;"&gt;
+09 53 43 77 30&lt;/div&gt;
+&lt;div style="text-align: center;"&gt;
+mina.bibawi@bibawi-avocats.com&lt;/div&gt;
+&lt;div style="text-align: center;"&gt;
+&lt;br /&gt;&lt;/div&gt;
+&lt;br /&gt;&lt;/div&gt;
+</content>
+    <blogger:metaDescription/>
+    <blogger:created>2018-08-13T03:44:17.095Z</blogger:created>
+    <published>2018-08-27T09:08:00Z</published>
+    <updated>2018-08-27T09:08:38.680Z</updated>
+    <blogger:location/>
+    <category/>
+    <blogger:filename>/p/ventes-aux-encheres.html</blogger:filename>
+    <link/>
+    <enclosure/>
+    <blogger:trashed/>
+  </entry>
+</feed>
