@@ -63,7 +63,7 @@ export const posts = [
         isRoot: false,
     },
     {
-        id: "Post-Egypt",
+        id: "Post-EgyptRealStateAcquisition",
         title: "Acquisition d’un bien immobilier en Égypte : Ce qu’il faut savoir et les écueils à éviter",
         published: "2019-07-10T20:15:00Z",
         updated: "2019-12-09T07:26:25.759Z",
@@ -75,6 +75,7 @@ export const posts = [
         dir: "ltr",
         audioId: null,
         isRoot: false,
+        parentId: "Page-Articles",
     },
     {
         id: "Page-Articles",
