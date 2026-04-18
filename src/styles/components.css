@@ -228,6 +228,15 @@
   padding: 0 2rem; /* Buffer space inside the paper */
 }
 
+/* Post text body styles */
+.post-text-content {
+  text-align: justify;
+}
+
+.post-text-content p {
+  margin-bottom: 1.5rem;
+}
+
 /* Sub-lists inside detail page */
 .detail-children-title {
   font-size: 2.2rem;

@@ -85,7 +85,6 @@ section {
 /* RTL Support */
 [dir="rtl"] {
   font-family: 'Inter', sans-serif;
-  text-align: right;
 }
 [dir="rtl"] h1, [dir="rtl"] h2, [dir="rtl"] h3 {
   font-family: 'Inter', sans-serif; /* Fallback to a sturdy arabic-supporting sans for RTL */
