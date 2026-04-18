@@ -38,7 +38,7 @@ export const Header = () => {
     menuItems.forEach(item => {
         const li = document.createElement('li');
         const a = document.createElement('a');
-        a.href = `/post/${item.id}`;
+        a.href = `#/post/${item.id}`;
         a.className = 'nav-link';
         a.textContent = item.label;
         if (item.label === 'باللغة العربية') {

@@ -2,11 +2,11 @@ let currentRoute = { path: '/', view: 'home' };
 const listeners = [];
 export const getRoute = () => currentRoute;
 export const navigate = (path) => {
-    window.history.pushState({}, '', path);
+    window.location.hash = path;
     updateRoute();
 };
 export const updateRoute = () => {
-    const path = window.location.pathname;
+    const path = window.location.hash.replace('#', '') || '/';
     let view = 'home';
     let params = {};
     if (path === '/') {
@@ -38,6 +38,6 @@ export const subscribeToRoute = (listener) => {
             listeners.splice(index, 1);
     };
 };
-window.addEventListener('popstate', updateRoute);
+window.addEventListener('hashchange', updateRoute);
 window.addEventListener('click', onRouteLinkClick);
 //# sourceMappingURL=router.js.map

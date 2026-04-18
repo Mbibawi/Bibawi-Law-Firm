@@ -1,4 +1,4 @@
-﻿export type Route = {
+export type Route = {
     path: string;
     view: string;
     params?: Record<string, string>;
@@ -10,12 +10,12 @@ const listeners: ((route: Route) => void)[] = [];
 export const getRoute = () => currentRoute;
 
 export const navigate = (path: string) => {
-    window.history.pushState({}, '', path);
+    window.location.hash = path;
     updateRoute();
 };
 
 export const updateRoute = () => {
-    const path = window.location.pathname;
+    const path = window.location.hash.replace('#', '') || '/';
     let view = 'home';
     let params: Record<string, string> = {};
 
@@ -49,5 +49,5 @@ export const subscribeToRoute = (listener: (route: Route) => void) => {
     };
 };
 
-window.addEventListener('popstate', updateRoute);
+window.addEventListener('hashchange', updateRoute);
 window.addEventListener('click', onRouteLinkClick);
