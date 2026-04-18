@@ -1,19 +1,19 @@
-declare module "*.png" {
-  const value: string;
-  export default value;
-}
+type Route = {
+  path: string;
+  view: string;
+  params?: Record<string, string>;
+};
 
-declare module "*.jpg" {
-  const value: string;
-  export default value;
-}
-
-declare module "*.svg" {
-  const value: string;
-  export default value;
-}
-
-declare module "*.css" {
-  const content: { [className: string]: string };
-  export default content;
+interface Post {
+  id: string;
+  title: string;
+  published: string;
+  updated: string;
+  content: string;
+  type: "POST" | "PAGE";
+  tags: string[];
+  dir: "rtl" | "ltr";
+  audioId: string | null;
+  isRoot: boolean;
+  parentId?: string;
 }

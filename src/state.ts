@@ -1,18 +1,6 @@
 import { posts as importedPosts } from './data/posts.js';
 
-export interface Post {
-    id: string;
-    title: string;
-    published: string;
-    updated: string;
-    content: string; // The plain text content
-    type: 'POST' | 'PAGE';
-    tags: string[];
-    dir: 'rtl' | 'ltr';
-    audioId: string | null;
-    isRoot: boolean;
-    parentId?: string;
-}
+
 
 const initialPosts = (importedPosts as any[]).sort((a, b) => 
     new Date(b.published).getTime() - new Date(a.published).getTime()

@@ -1,4 +1,4 @@
-let currentRoute = { path: '/', view: 'home' };
+let currentRoute = { path: "/", view: "home" };
 const listeners = [];
 export const getRoute = () => currentRoute;
 export const navigate = (path) => {
@@ -6,28 +6,28 @@ export const navigate = (path) => {
     updateRoute();
 };
 export const updateRoute = () => {
-    const path = window.location.hash.replace('#', '') || '/';
-    let view = 'home';
+    const path = window.location.hash.replace("#", "") || "/";
+    let view = "home";
     let params = {};
-    if (path === '/') {
-        view = 'home';
+    if (path === "/") {
+        view = "home";
     }
-    else if (path.startsWith('/post/')) {
-        view = 'post';
-        params = { id: path.replace('/post/', '') };
+    else if (path.startsWith("/post/")) {
+        view = "post";
+        params = { id: path.replace("/post/", "") };
     }
-    else if (path === '/search') {
-        view = 'search';
+    else if (path === "/search") {
+        view = "search";
     }
     currentRoute = { path, view, params };
-    listeners.forEach(l => l(currentRoute));
+    listeners.forEach((l) => l(currentRoute));
 };
 export const onRouteLinkClick = (e) => {
     const target = e.target;
-    const anchor = target.closest('a');
-    if (anchor && anchor.getAttribute('href')?.startsWith('/')) {
+    const anchor = target.closest("a");
+    if (anchor && anchor.getAttribute("href")?.startsWith("/")) {
         e.preventDefault();
-        navigate(anchor.getAttribute('href'));
+        navigate(anchor.getAttribute("href"));
     }
 };
 export const subscribeToRoute = (listener) => {
@@ -38,6 +38,6 @@ export const subscribeToRoute = (listener) => {
             listeners.splice(index, 1);
     };
 };
-window.addEventListener('hashchange', updateRoute);
-window.addEventListener('click', onRouteLinkClick);
+window.addEventListener("hashchange", updateRoute);
+window.addEventListener("click", onRouteLinkClick);
 //# sourceMappingURL=router.js.map
