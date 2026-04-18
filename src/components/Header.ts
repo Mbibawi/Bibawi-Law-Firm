@@ -4,30 +4,15 @@ const logoUrl = './dist/assets/logo.png';
 
 export const Header = (pages: Post[]) => {
     const header = document.createElement('header');
-    header.style.cssText = `
-        background: var(--white);
-        padding: 1rem 0;
-        border-bottom: 1px solid var(--border);
-        position: sticky;
-        top: 0;
-        z-index: 1000;
-        box-shadow: 0 2px 10px rgba(0,0,0,0.02);
-    `;
+    header.className = 'main-header';
 
     const container = document.createElement('div');
-    container.className = 'container';
-    container.style.cssText = `
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-    `;
+    container.className = 'container header-container';
 
     // Logo
     const logoContainer = document.createElement('div');
-    logoContainer.style.cursor = 'pointer';
-    logoContainer.style.display = 'flex';
-    logoContainer.style.alignItems = 'center';
-    logoContainer.innerHTML = `<img src="${logoUrl}" alt="Mina Bibawi Logo" style="height: 60px; width: auto; object-fit: contain;">`;
+    logoContainer.className = 'logo-container';
+    logoContainer.innerHTML = `<img src="${logoUrl}" alt="Mina Bibawi Logo" class="logo-img">`;
     logoContainer.addEventListener('click', () => navigate('/'));
 
     // Navigation

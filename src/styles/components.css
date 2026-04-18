@@ -1,0 +1,240 @@
+﻿/* Header */
+.main-header {
+  background: var(--white);
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--border);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.02);
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo-container {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+
+.logo-img {
+  height: 60px;
+  width: auto;
+  object-fit: contain;
+}
+
+/* PostList */
+.section-title {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 4rem;
+  position: relative;
+}
+
+.section-title-underline {
+  width: 60px;
+  height: 3px;
+  background: var(--secondary);
+  margin: 1.5rem auto 0;
+}
+
+.post-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 3rem;
+}
+
+.post-item {
+  padding: 3rem;
+  background: var(--bg-soft);
+  border-left: 4px solid var(--primary);
+  transition: var(--transition);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  height: 100%;
+}
+
+.post-item:hover {
+  background-color: #f1f4f8;
+  border-left-color: var(--secondary);
+  transform: translateX(10px);
+}
+
+.post-item-title {
+  font-size: 1.6rem;
+  color: var(--primary);
+}
+
+.post-item-snippet {
+  color: var(--text-light);
+  font-size: 0.95rem;
+  line-height: 1.7;
+}
+
+.post-item-footer {
+  margin-top: auto;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: var(--secondary);
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  letter-spacing: 0.1em;
+}
+
+.post-item-arrow {
+  font-size: 1.2rem;
+}
+
+/* PostDetail */
+.detail-container {
+  padding: 5rem 0;
+}
+
+.detail-header {
+  margin-bottom: 4rem;
+  max-width: 800px;
+}
+
+.detail-type {
+  color: var(--secondary);
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.85rem;
+  margin-bottom: 1rem;
+  letter-spacing: 0.1em;
+}
+
+.detail-title {
+  font-size: 3rem;
+  margin-bottom: 2rem;
+  border-bottom: 2px solid var(--border);
+  padding-bottom: 2rem;
+}
+
+.detail-content {
+  font-size: 1.1rem;
+  color: var(--text-light);
+  margin-bottom: 4rem;
+}
+
+.detail-children-title {
+  font-size: 2rem;
+  margin-bottom: 3rem;
+  padding-top: 3rem;
+  border-top: 1px solid var(--border);
+}
+
+.children-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.child-item {
+  padding: 2rem;
+  background: var(--bg-soft);
+  border-left: 3px solid var(--secondary);
+  cursor: pointer;
+  transition: var(--transition);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.child-item:hover {
+  background-color: #f1f4f8;
+}
+
+.child-item-title {
+  font-size: 1.25rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.child-item-date {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  margin-top: 0.5rem;
+}
+
+.child-item-arrow {
+  color: var(--secondary);
+  font-size: 1.5rem;
+  margin-left: 1rem;
+}
+
+/* Hero */
+.hero {
+  position: relative;
+  height: 60vh;
+  min-height: 400px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  margin-bottom: 4rem;
+  background-attachment: fixed;
+}
+
+.hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to right, rgba(10, 25, 47, 0.85), rgba(10, 25, 47, 0.4));
+}
+
+.hero-content {
+  position: relative;
+  z-index: 2;
+  color: white;
+}
+
+.hero-text-container {
+  max-width: 700px;
+}
+
+.hero-subtitle {
+  color: var(--secondary);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+}
+
+.hero-title {
+  color: white;
+  font-size: 3.5rem;
+  margin-bottom: 1.5rem;
+  line-height: 1.1;
+}
+
+.hero-description {
+  font-size: 1.2rem;
+  color: #e6f1ff;
+  margin-bottom: 2.5rem;
+  line-height: 1.6;
+  opacity: 0.9;
+}
+
+.hero-description-en {
+  font-size: 1rem;
+  color: #e6f1ff;
+  margin-bottom: 2.5rem;
+  line-height: 1.6;
+  font-style: italic;
+  border-left: 3px solid var(--secondary);
+  padding-left: 1.5rem;
+}
+
+.hero-actions {
+  display: flex;
+  gap: 1.5rem;
+}

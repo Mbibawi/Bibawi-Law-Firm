@@ -18,20 +18,11 @@ export const PostList = () => {
     }
     const title = document.createElement('h2');
     title.textContent = searchQuery ? `Resultats pour "${searchQuery}"` : 'Nos Domaines d’Expertise';
-    title.style.cssText = `
-        text-align: center;
-        font-size: 2.5rem;
-        margin-bottom: 4rem;
-        position: relative;
-    `;
-    title.insertAdjacentHTML('beforeend', '<div style="width: 60px; height: 3px; background: var(--secondary); margin: 1.5rem auto 0;"></div>');
+    title.className = 'section-title';
+    title.insertAdjacentHTML('beforeend', '<div class="section-title-underline"></div>');
     section.appendChild(title);
     const grid = document.createElement('div');
-    grid.style.cssText = `
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-        gap: 3rem;
-    `;
+    grid.className = 'post-grid';
     // Important "Root" sections to display on Home
     const rootIds = [
         'Page-Arabic',
@@ -45,36 +36,15 @@ export const PostList = () => {
         : filteredPosts.filter(p => rootIds.includes(p.id));
     displayPosts.forEach(post => {
         const item = document.createElement('div');
-        item.className = 'fade-in';
-        item.style.cssText = `
-            padding: 3rem;
-            background: var(--bg-soft);
-            border-left: 4px solid var(--primary);
-            transition: var(--transition);
-            cursor: pointer;
-            display: flex;
-            flex-direction: column;
-            gap: 1.5rem;
-            height: 100%;
-        `;
-        item.addEventListener('mouseenter', () => {
-            item.style.backgroundColor = '#f1f4f8';
-            item.style.borderLeftColor = 'var(--secondary)';
-            item.style.transform = 'translateX(10px)';
-        });
-        item.addEventListener('mouseleave', () => {
-            item.style.backgroundColor = 'var(--bg-soft)';
-            item.style.borderLeftColor = 'var(--primary)';
-            item.style.transform = 'translateX(0)';
-        });
+        item.className = 'fade-in post-item';
         // Snippet
         const snippet = post.content.substring(0, 150) + '...';
         item.innerHTML = `
-            <h3 style="font-size: 1.6rem; color: var(--primary);">${post.title}</h3>
-            <p style="color: var(--text-light); font-size: 0.95rem; line-height: 1.7;">${snippet}</p>
-            <div style="margin-top: auto; display: flex; align-items: center; gap: 0.5rem; color: var(--secondary); font-weight: 700; text-transform: uppercase; font-size: 0.8rem; letter-spacing: 0.1em;">
+            <h3 class="post-item-title">${post.title}</h3>
+            <p class="post-item-snippet">${snippet}</p>
+            <div class="post-item-footer">
                 <span>Consulter</span>
-                <span style="font-size: 1.2rem;">→</span>
+                <span class="post-item-arrow">→</span>
             </div>
         `;
         item.addEventListener('click', () => navigate(`/post/${post.id}`));
