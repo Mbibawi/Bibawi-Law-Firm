@@ -1,5 +1,18 @@
 export const posts: Post[] = [
   {
+    id: "Page-Expertise",
+    title: "Domaines d'intervention",
+    published: "2018-08-13T05:34:00Z",
+    updated: "2019-12-09T08:51:29.945Z",
+    content:
+      "Nous intervenons principalement dans les domaines suivants:\n- Droit commercial et des sociétés\n- Droit immobilier (copropriété, ventes aux enchères, baux professionnels et d'habitations)\n- Droit des contrats et de la responsabilité contractuelle\nPour nos clients à la recherche d'un avocat pour l'acquisition d'un bien mis en vente aux enchères au TGI de Paris, nous avons conçu un forfait intéressant afin de réduire au maximum le coût de l'intervention si vous n'est pas déclaré adjudicataire.",
+    type: "PAGE",
+    tags: ["Domaines d'intervention"],
+    dir: "ltr",
+    audioId: null,
+    isRoot: true,
+  },
+  {
     id: "Page-Arabic",
     title: "باللغة العربية",
     published: "2020-05-26T11:57:00Z",
@@ -55,19 +68,7 @@ export const posts: Post[] = [
     isRoot: false,
     parentId: "Page-Arabic",
   },
-  {
-    id: "Page-Expertise",
-    title: "Domaines d'intervention",
-    published: "2018-08-13T05:34:00Z",
-    updated: "2019-12-09T08:51:29.945Z",
-    content:
-      "Nous intervenons principalement dans les domaines suivants:\n- Droit commercial et des sociétés\n- Droit immobilier (copropriété, ventes aux enchères, baux professionnels et d'habitations)\n- Droit des contrats et de la responsabilité contractuelle\nPour nos clients à la recherche d'un avocat pour l'acquisition d'un bien mis en vente aux enchères au TGI de Paris, nous avons conçu un forfait intéressant afin de réduire au maximum le coût de l'intervention si vous n'est pas déclaré adjudicataire.",
-    type: "POST",
-    tags: ["Domaines d'intervention"],
-    dir: "ltr",
-    audioId: null,
-    isRoot: false,
-  },
+
   {
     id: "Post-EgyptRealStateAcquisition",
     title:

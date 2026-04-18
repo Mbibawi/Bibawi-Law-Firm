@@ -35,11 +35,11 @@ export const PostList = () => {
 
     // Important "Root" sections to display on Home
     const rootIds = [
-        'Page-Arabic',
-        'Page-Expertise',
-        'Page-Auctions',
-        'Post-Egypt',
-        'Page-Contact'
+      "Page-Expertise",
+      "Page-Auctions",
+      "Page-Arabic",
+      "Post-Egypt",
+      "Page-Contact",
     ];
 
     const displayPosts = searchQuery 
