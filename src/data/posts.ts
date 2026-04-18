@@ -1,6 +1,6 @@
 export const posts: Post[] = [
   {
-    id: "592147784114409479",
+    id: "Page-Arabic",
     title: "باللغة العربية",
     published: "2020-05-26T11:57:00Z",
     updated: "2021-02-01T19:38:52.995Z",
@@ -13,7 +13,7 @@ export const posts: Post[] = [
     isRoot: true,
   },
   {
-    id: "592147784114409479_CompteCourantAssocie",
+    id: "Post_CompteCourantAssocie",
     title: "الحسابات الجارية للشركاء",
     published: "2020-05-26T11:57:00Z",
     updated: "2021-02-01T19:38:52.995Z",
@@ -24,10 +24,10 @@ export const posts: Post[] = [
     dir: "rtl",
     audioId: "1T653y3rzNt8u__RkzPctBAKY8GoqjNU3",
     isRoot: false,
-    parentId: "592147784114409479",
+    parentId: "Page-Arabic",
   },
   {
-    id: "592147784114409479_PersonnaliteMoraleSocietes",
+    id: "Post_PersonnaliteMoraleSocietes",
     title:
       "الفصل ما بين الذمة المالية للشركة والذمة المالية\n\t\t\t\t\tللشركاء والمديرين في القانون الفرنسي",
     published: "2020-05-26T11:57:00Z",
@@ -39,10 +39,10 @@ export const posts: Post[] = [
     dir: "rtl",
     audioId: "1A6tSej17B9Vhfnm-0GRpOY9rQQFzcal-",
     isRoot: false,
-    parentId: "592147784114409479",
+    parentId: "Page-Arabic",
   },
   {
-    id: "592147784114409479_FondsDeCommerce",
+    id: "Post_FondsDeCommerce",
     title: "المحل التجاري في القانون الفرنسي",
     published: "2020-05-26T11:57:00Z",
     updated: "2021-02-01T19:38:52.995Z",
@@ -53,10 +53,10 @@ export const posts: Post[] = [
     dir: "rtl",
     audioId: "1hvt7uaUUpYMZms4kE8H0l5ufO8eUfxYI",
     isRoot: false,
-    parentId: "592147784114409479",
+    parentId: "Page-Arabic",
   },
   {
-    id: "3137521404184090704",
+    id: "Page-Expertise",
     title: "Domaines d'intervention",
     published: "2018-08-13T05:34:00Z",
     updated: "2019-12-09T08:51:29.945Z",
@@ -69,7 +69,7 @@ export const posts: Post[] = [
     isRoot: false,
   },
   {
-    id: "449741076111714186",
+    id: "Post-Egypt",
     title:
       "Acquisition d’un bien immobilier en Égypte : Ce qu’il faut savoir et les écueils à éviter",
     published: "2019-07-10T20:15:00Z",
@@ -85,7 +85,7 @@ export const posts: Post[] = [
     isRoot: false,
   },
   {
-    id: "5510531889135482962",
+    id: "Page-Articles",
     title: "Articles",
     published: "2019-12-08T21:19:00.001Z",
     updated: "2019-12-08T21:19:50.657Z",
@@ -97,7 +97,7 @@ export const posts: Post[] = [
     isRoot: true,
   },
   {
-    id: "5619440676654787976",
+    id: "Page-Contact",
     title: "Nous contacter",
     published: "2018-08-13T05:25:00Z",
     updated: "2018-08-13T05:25:31.906Z",
@@ -110,7 +110,7 @@ export const posts: Post[] = [
     isRoot: true,
   },
   {
-    id: "8836655885593735648",
+    id: "Page-Auctions",
     title: "Ventes aux Enchères",
     published: "2018-08-27T09:08:00Z",
     updated: "2018-08-27T09:08:38.680Z",

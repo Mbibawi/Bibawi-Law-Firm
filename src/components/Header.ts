@@ -2,7 +2,7 @@ import { navigate } from '../router.js';
 
 const logoUrl = './dist/assets/logo.png';
 
-export const Header = () => {
+export const Header = (pages: Post[]) => {
     const header = document.createElement('header');
     header.style.cssText = `
         background: var(--white);
@@ -35,12 +35,7 @@ export const Header = () => {
     const menuList = document.createElement('ul');
     menuList.className = 'nav-menu';
 
-    const menuItems = [
-        { label: 'باللغة العربية', id: '592147784114409479' },
-        { label: 'Expertise / Services', id: '3137521404184090704' },
-        { label: 'Enchères / Auctions', id: '8836655885593735648' },
-        { label: 'Contact / Contact', id: '5619440676654787976' }
-    ];
+    const menuItems = pages.map(p => ({ label: p.title, id: p.id }));
 
     menuItems.forEach(item => {
         const li = document.createElement('li');
