@@ -1,6 +1,6 @@
-import { getState } from '../state.js';
 import { navigate } from '../router.js';
-import logoUrl from '../assets/logo.png';
+
+const logoUrl = './dist/assets/logo.png';
 
 export const Header = () => {
     const header = document.createElement('header');

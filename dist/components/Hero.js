@@ -1,4 +1,4 @@
-import heroUrl from '../assets/hero.png';
+const heroUrl = './dist/assets/hero.png';
 export const Hero = () => {
     const hero = document.createElement('div');
     hero.style.cssText = `
