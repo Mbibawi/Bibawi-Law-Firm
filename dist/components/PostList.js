@@ -1,6 +1,6 @@
-import { getState } from '../state';
-import { Hero } from './Hero';
-import { navigate } from '../router';
+import { getState } from '../state.js';
+import { Hero } from './Hero.js';
+import { navigate } from '../router.js';
 export const PostList = () => {
     const container = document.createElement('div');
     // Check if we are on home view or search

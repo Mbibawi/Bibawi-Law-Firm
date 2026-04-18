@@ -1,4 +1,4 @@
-import { navigate } from '../router';
+import { navigate } from '../router.js';
 import logoUrl from '../assets/logo.png';
 export const Header = () => {
     const header = document.createElement('header');

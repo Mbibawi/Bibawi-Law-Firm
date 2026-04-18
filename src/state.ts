@@ -1,4 +1,4 @@
-﻿import { posts as importedPosts } from './data/posts';
+import { posts as importedPosts } from './data/posts.js';
 
 export interface Post {
     id: string;

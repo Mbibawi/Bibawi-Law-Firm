@@ -1,4 +1,4 @@
-import { posts as importedPosts } from './data/posts';
+import { posts as importedPosts } from './data/posts.js';
 const initialPosts = importedPosts.sort((a, b) => new Date(b.published).getTime() - new Date(a.published).getTime());
 let state = {
     posts: initialPosts,

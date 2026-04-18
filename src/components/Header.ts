@@ -1,5 +1,5 @@
-﻿import { getState } from '../state';
-import { navigate } from '../router';
+import { getState } from '../state.js';
+import { navigate } from '../router.js';
 import logoUrl from '../assets/logo.png';
 
 export const Header = () => {

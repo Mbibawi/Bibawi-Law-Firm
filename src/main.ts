@@ -1,8 +1,8 @@
-import { subscribe, getState } from './state';
-import { updateRoute, subscribeToRoute } from './router';
-import { Header } from './components/Header';
-import { PostList } from './components/PostList';
-import { PostDetail } from './components/PostDetail';
+import { subscribe, getState } from './state.js';
+import { updateRoute, subscribeToRoute } from './router.js';
+import { Header } from './components/Header.js';
+import { PostList } from './components/PostList.js';
+import { PostDetail } from './components/PostDetail.js';
 
 const app = document.getElementById('app')!;
 

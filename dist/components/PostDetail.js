@@ -1,7 +1,7 @@
-import { getState } from '../state';
-import { AudioPlayer } from './AudioPlayer';
-import { PostContent } from './PostContent';
-import { navigate } from '../router';
+import { getState } from '../state.js';
+import { AudioPlayer } from './AudioPlayer.js';
+import { PostContent } from './PostContent.js';
+import { navigate } from '../router.js';
 export const PostDetail = (postId) => {
     const section = document.createElement('div');
     section.className = 'fade-in';
