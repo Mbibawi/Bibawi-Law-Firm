@@ -39,7 +39,7 @@ export const Hero = () => {
                 Bilingual expert advisory for cross-border investments between France and Egypt.
             </p>
             <div style="display: flex; gap: 1.5rem;">
-                <a href="#/post/3878060186025196014.post-3137521404184090704" class="btn-primary">Domaines d'intervention</a>
+                <a href="#/post/3137521404184090704" class="btn-primary">Domaines d'intervention</a>
                 <a href="#sections" class="link-gold" style="align-self: center; color: white; border-bottom-color: white;">Découvrir nos services</a>
             </div>
         </div>

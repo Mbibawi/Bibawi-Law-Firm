@@ -30,10 +30,10 @@ export const Header = () => {
     const menuList = document.createElement('ul');
     menuList.className = 'nav-menu';
     const menuItems = [
-        { label: 'باللغة العربية', id: '3878060186025196014.post-592147784114409479' },
-        { label: 'Expertise / Services', id: '3878060186025196014.post-3137521404184090704' },
-        { label: 'Enchères / Auctions', id: '3878060186025196014.post-8836655885593735648' },
-        { label: 'Contact / Contact', id: '3878060186025196014.post-5619440676654787976' }
+        { label: 'باللغة العربية', id: '592147784114409479' },
+        { label: 'Expertise / Services', id: '3137521404184090704' },
+        { label: 'Enchères / Auctions', id: '8836655885593735648' },
+        { label: 'Contact / Contact', id: '5619440676654787976' }
     ];
     menuItems.forEach(item => {
         const li = document.createElement('li');

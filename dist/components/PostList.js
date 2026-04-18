@@ -34,11 +34,11 @@ export const PostList = () => {
     `;
     // Important "Root" sections to display on Home
     const rootIds = [
-        '3878060186025196014.post-592147784114409479', // Arabic
-        '3878060186025196014.post-3137521404184090704', // Expertise
-        '3878060186025196014.post-8836655885593735648', // Auctions
-        '3878060186025196014.post-4449741076111714186', // Egypt
-        '3878060186025196014.post-5619440676654787976' // Contact
+        '592147784114409479', // Arabic
+        '3137521404184090704', // Expertise
+        '8836655885593735648', // Auctions
+        '449741076111714186', // Egypt
+        '5619440676654787976' // Contact
     ];
     const displayPosts = searchQuery
         ? filteredPosts
