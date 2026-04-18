@@ -1,15 +1,23 @@
-export const PostContent = (text: string, dir: 'rtl' | 'ltr') => {
+export const PostContent = (post:Post) => {
     const content = document.createElement('div');
     content.className = 'post-text-content fade-in';
-    content.setAttribute('dir', dir);
+    content.setAttribute('dir', post.dir);
 
-    const paragraphs = text.split('\n\n');
+    const paragraphs = post.content.split('\n\n');
     paragraphs.forEach(pText => {
         if (pText.trim()) {
-            const p = document.createElement('p');
-            // Remove single newlines to allow naturally flowing/justifiable text
-            p.innerText = pText.trim().replace(/\n/g, ' '); 
-            content.appendChild(p);
+            let contentString = pText.trim().replace(/\n/g, ' '); 
+            
+            if (contentString.startsWith('## ')) {
+                const h2 = document.createElement('h2');
+                h2.innerText = contentString.substring(3); // Remove the "## "
+                h2.className = 'post-header';
+                content.appendChild(h2);
+            } else {
+                const p = document.createElement('p');
+                p.innerText = contentString;
+                content.appendChild(p);
+            }
         }
     });
 

@@ -40,7 +40,7 @@ export const PostList = () => {
         const item = document.createElement('div');
         item.className = 'fade-in post-item';
         // Snippet
-        const snippet = post.content.substring(0, 150) + '...';
+        const snippet = post.content.replaceAll("#", "").substring(0, 150) + "...";
         item.innerHTML = `
             <h3 class="post-item-title">${post.title}</h3>
             <p class="post-item-snippet">${snippet}</p>

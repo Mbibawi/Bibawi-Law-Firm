@@ -25,7 +25,7 @@ export const PostDetail = (postId) => {
     // Content Section (Intro)
     const contentWrapper = document.createElement('div');
     contentWrapper.className = 'detail-content';
-    contentWrapper.appendChild(PostContent(post.content, post.dir));
+    contentWrapper.appendChild(PostContent(post));
     container.appendChild(contentWrapper);
     // Audio if present
     if (post.audioId) {
@@ -41,7 +41,10 @@ export const PostDetail = (postId) => {
         const children = pageGroup ? pageGroup.posts : [];
         if (children.length > 0) {
             const listTitle = document.createElement('h2');
-            listTitle.textContent = post.dir === 'rtl' ? 'المقالات والدروس' : 'Ressources et Articles';
+            listTitle.textContent =
+                post.parentId === "Page-Arabic"
+                    ? "شرح مبسط للمفاهيم القانونية"
+                    : "Ressources et Articles";
             listTitle.className = 'detail-children-title';
             container.appendChild(listTitle);
             const list = document.createElement('div');
