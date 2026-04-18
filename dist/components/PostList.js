@@ -33,8 +33,10 @@ export const PostList = () => {
     ];
     const displayPosts = searchQuery
         ? filteredPosts
-        : filteredPosts.filter(p => rootIds.includes(p.id));
+        : rootIds.map((id) => filteredPosts.find((p) => p.id === id));
     displayPosts.forEach(post => {
+        if (!post)
+            return;
         const item = document.createElement('div');
         item.className = 'fade-in post-item';
         // Snippet
